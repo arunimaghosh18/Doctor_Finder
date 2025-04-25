@@ -42,6 +42,3 @@ npm install
 # Start the development server
 npm run dev
 
-# 📁 Folder Structure
-
-src/ ├── components/ # Reusable UI components ├── data/ # Doctor data (static or fetched) ├── pages/ # Main pages and routing └── utils/ # Helper functions
